@@ -1,9 +1,4 @@
-header {
+html * {
   text-align: center;
-  font-family: Trebuchet MS, sans-serif;
-}
-
-p {
-  text-align: center;
-  font-family: Trebuchet MS, sans-serif;
+  font-family: Montserrat, sans-serif;
 }
