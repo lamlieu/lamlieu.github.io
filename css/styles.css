@@ -3,6 +3,10 @@ html * {
   font-family: Montserrat, sans-serif;
 }
 
+#btn-group > a {
+  text-decoration: none;
+}
+
 .icon-style {
   width: 48px;
   height: 48px;
