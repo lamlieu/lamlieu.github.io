@@ -2,3 +2,9 @@ html * {
   text-align: center;
   font-family: Montserrat, sans-serif;
 }
+
+.icon-style {
+  width: 48px;
+  height: 48px;
+  padding: 8px;
+}
